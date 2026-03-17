@@ -129,6 +129,6 @@ OpenAI concepts for conversational AI inspiration
 📬 Contact
 
 Developer: Adneya Khatate
-📧 Email: your-email@example.com
+📧 Email: adneya.khatate24@vit.edu
 
-🌐 GitHub: https://github.com/your-username
+🌐 GitHub: https://github.com/Adneya/
